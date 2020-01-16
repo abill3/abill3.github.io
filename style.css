@@ -8,11 +8,11 @@ font-style:none;
 
 #nav {
 	float:left;
-	position: relative;
+	padding:25px;
 	font-family: Arial;
 	color: black;
 	padding: 50px;
 	background-color: 333;
-	width:33%;
+	width:33.33%;
 }
 
