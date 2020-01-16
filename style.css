@@ -6,7 +6,7 @@ a {
 font-style:none;
 }
 
-#nav {
+#nav a {
 	float:left;
 	padding:25px;
 	font-family: Arial;
