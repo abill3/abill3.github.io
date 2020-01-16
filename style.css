@@ -1,7 +1,12 @@
+body {
+	margin:0
+	padding: 20px;
+}
+
 a {
 	color:white;
 }
-#header {
+#nav {
 	background-image: url('/images/header.jpg');
 	position: relative;
 	background-repeat: no-repeat;
@@ -12,27 +17,3 @@ a {
 
 }
 
-nav ul  {
-	list-style-type:none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #333;
-	font-family: arial;
-}
-
-#nav li {
-	float: left;
-	text-align: center;
-
-}
-	
-#nav li a {
-	display: block;
-	color:white
-	padding: 20px 20px;
-	text-decoration: none;
-}
-li a:hover {
-	background-color: #111;
-}
