@@ -23,12 +23,13 @@ a {
 
 #nav li {
 	float: left;
+	text-align: center;
+
 }
 	
 #nav li a {
 	display: block;
 	color:white
-	text-align: center;
 	padding: 20px 20px;
 	text-decoration: none;
 }
