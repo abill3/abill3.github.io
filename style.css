@@ -1,3 +1,37 @@
+a {
+	color:white;
+}
 #header {
+	background-image: url('/images/header.jpg');
+	position: relative;
+	background-repeat: no-repeat;
+	background-position:100px 200px;
+	background-position:center top;text-align: center;
+	font-family: Arial;
+	
+
+}
+
+#nav ul  {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	font-family: arial;
+}
+
+#nav li {
+	float: left;
+}
+	
+#nav li a {
+	display: block;
+	color:white
 	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #111;
 }
