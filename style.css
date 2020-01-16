@@ -2,13 +2,17 @@ body {
 	margin:0
 	padding: 20px;
 }
+a {
+font-style:none;
+}
 
 #nav {
 	float:left;
 	position: relative;
 	font-family: Arial;
 	color: black;
-	
+	padding-right: 50px
+	background-color: 333;
 
 }
 
